@@ -7,7 +7,7 @@
 ---
 
 <p>Welcome to my github page!</br></br>
-I hold a Reserach Master in Human Language Technology from VU Amsterdam. </br></br>
+I hold a Research Master in Human Language Technology from VU Amsterdam. </br></br>
 I am interested in applying AI to address real-world challenges, particularly in domains that promote justice, security, and equality. Always curious and eager to learn, I am looking for opportunities to contribute to projects where technology can make a meaningful impact.</p>
 
 ---
