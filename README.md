@@ -1,6 +1,8 @@
 <h2 align="center"> Hi there, I'm Ariana Britez <img src="https://slackmojis.com/emojis/89730-hello-hi-doggo/download/" width="30"/>  </h2>
 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=abrtz.abrtz)
+<p align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=abrtz.abrtz&left_color=purple&right_color=crimson" alt="visitor badge" />
+</p>
 
 ---
 
