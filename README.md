@@ -21,11 +21,11 @@ I am interested in applying AI to address real-world challenges, particularly in
 <img src="https://img.shields.io/badge/Pytorch-%23EE4C2C?style=for-the-badge&logo=Pytorch&labelColor=black" />
 <img src="https://img.shields.io/badge/HuggingFace-%23FFD21E?style=for-the-badge&logo=huggingface&labelColor=black" />
 <img src="https://img.shields.io/badge/openai-%23412991?style=for-the-badge&logo=openai&labelColor=black"/>
+<img src="https://img.shields.io/badge/scikitlearn-%23F7931E?style=for-the-badge&logo=scikitlearn&labelColor=black" />
 <img src="https://img.shields.io/badge/spacy-%2309A3D5?style=for-the-badge&logo=spacy&labelColor=black" />
 <img src="https://img.shields.io/badge/pandas-%23150458?style=for-the-badge&logo=pandas&labelColor=black" />
 <img src="https://img.shields.io/badge/polars-%230075FF?style=for-the-badge&logo=polars&labelColor=black" />
 <img src="https://img.shields.io/badge/numpy-%23013243?style=for-the-badge&logo=numpy&labelColor=black" />
-<img src="https://img.shields.io/badge/scikitlearn-%23F7931E?style=for-the-badge&logo=scikitlearn&labelColor=black" />
 <img src="https://img.shields.io/badge/tqdm-%23FFC107?style=for-the-badge&logo=TQDM&labelColor=black" />
 <img src="https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&labelColor=black" />
 <img src="https://img.shields.io/badge/github-%23181717?style=for-the-badge&logo=GitHub&labelColor=black" />
