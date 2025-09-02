@@ -27,6 +27,7 @@ I am interested in applying AI to address real-world challenges, particularly in
 <img src="https://img.shields.io/badge/polars-%230075FF?style=for-the-badge&logo=polars&labelColor=black" />
 <img src="https://img.shields.io/badge/numpy-%23013243?style=for-the-badge&logo=numpy&labelColor=black" />
 <img src="https://img.shields.io/badge/tqdm-%23FFC107?style=for-the-badge&logo=TQDM&labelColor=black" />
+<img src="https://img.shields.io/badge/kaggle-%2320BEFF?style=for-the-badge&logo=kaggle&labelColor=black" />
 <img src="https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&labelColor=black" />
 <img src="https://img.shields.io/badge/github-%23181717?style=for-the-badge&logo=GitHub&labelColor=black" />
 </p>
