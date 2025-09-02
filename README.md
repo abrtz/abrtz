@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there <img src="https://slackmojis.com/emojis/89730-hello-hi-doggo/download/" width="30"/>  
 
 <!--
 **abrtz/abrtz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,5 +17,9 @@ Here are some ideas to get you started:
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=abrtz.abrtz)
 
+Welcome to my github page!
 
+I am Ariana.
+I hold a Reserach Master in Human Language Technology from VU Amsterdam. 
 
+I am interested in applying AI to address real-world challenges, particularly in domains that promote justice, security, and equality. Always curious and eager to learn, I am looking for opportunities to contribute to projects where technology can make a meaningful impact.
