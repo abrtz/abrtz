@@ -1,25 +1,14 @@
-<h2> Hi there <img src="https://slackmojis.com/emojis/89730-hello-hi-doggo/download/" width="30"/>  </h2>
-
-<!--
-**abrtz/abrtz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center"> Hi there, I'm Ariana Britez <img src="https://slackmojis.com/emojis/89730-hello-hi-doggo/download/" width="30"/>  </h2>
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=abrtz.abrtz)
 
-<p>Welcome to my github page!</br></br>I am Ariana.
+---
+
+<p>Welcome to my github page!</br></br>
 I hold a Reserach Master in Human Language Technology from VU Amsterdam. </br></br>
 I am interested in applying AI to address real-world challenges, particularly in domains that promote justice, security, and equality. Always curious and eager to learn, I am looking for opportunities to contribute to projects where technology can make a meaningful impact.</p>
+
+---
 
 <h3>Skills</h3>
 <p>
@@ -40,6 +29,24 @@ I am interested in applying AI to address real-world challenges, particularly in
 <img src="https://img.shields.io/badge/github-%23181717?style=for-the-badge&logo=GitHub&labelColor=black" />
 </p>
 
+---
+
 <p align="center"><samp>
 Check out my repos ⬇️ </samp>
 </p>
+
+
+<!--
+**abrtz/abrtz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
