@@ -19,6 +19,7 @@ I am interested in applying AI to address real-world challenges, particularly in
 <img src="https://img.shields.io/badge/jupyter-%23F37626?style=for-the-badge&logo=jupyter&labelColor=black" />
 <img src="https://img.shields.io/badge/Google%20Colab-%23F9AB00?style=for-the-badge&logo=Google%20Colab&labelColor=black" />
 <img src="https://img.shields.io/badge/Pytorch-%23EE4C2C?style=for-the-badge&logo=Pytorch&labelColor=black" />
+<img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=%23FF6F00&labelColor=black"/>
 <img src="https://img.shields.io/badge/HuggingFace-%23FFD21E?style=for-the-badge&logo=huggingface&labelColor=black" />
 <img src="https://img.shields.io/badge/openai-%23412991?style=for-the-badge&logo=openai&labelColor=black"/>
 <img src="https://img.shields.io/badge/scikitlearn-%23F7931E?style=for-the-badge&logo=scikitlearn&labelColor=black" />
