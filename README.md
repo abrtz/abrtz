@@ -38,7 +38,7 @@ I am interested in applying AI to address real-world challenges, particularly in
 ![Pinecone](https://img.shields.io/badge/Pinecone-black?style=flat-square&labelColor=black) 
 ![Tavily](https://img.shields.io/badge/Tavily-black?style=flat-square&labelColor=black)
 
-**Apps**
+**Apps and UI**
 
 ![StreamLit](https://img.shields.io/badge/StreamLit-%23FF4B4B?style=flat-square&logo=streamlit&labelColor=black)
 
@@ -52,6 +52,8 @@ I am interested in applying AI to address real-world challenges, particularly in
 ![Git](https://img.shields.io/badge/git-%23F05032?style=flat-square&logo=git&labelColor=black) 
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=flat-square&logo=GitHub&labelColor=black) 
 ![uv](https://img.shields.io/badge/uv-%23DE5FE9?style=flat-square&logo=uv&labelColor=black)
+![pytest](https://img.shields.io/badge/pytest-%230A9EDC?style=flat-square&logo=pytest&labelColor=black)
+
 
 ---
 
