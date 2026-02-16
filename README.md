@@ -16,6 +16,7 @@ I am interested in applying AI to address real-world challenges, particularly in
 ### Skills 
 
 **Programming and Data**
+
 ![Python](https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&labelColor=black) 
 
 ![numpy](https://img.shields.io/badge/numpy-%23013243?style=for-the-badge&logo=numpy&labelColor=black) 
@@ -24,6 +25,7 @@ I am interested in applying AI to address real-world challenges, particularly in
 ![matplotlib](https://img.shields.io/badge/matplotlib-%23294B70?style=for-the-badge&logo=matplotlib&labelColor=black)
 
 **AI and ML**
+
 ![scikit-learn](https://img.shields.io/badge/scikitlearn-%23F7931E?style=for-the-badge&logo=scikitlearn&labelColor=black) 
 ![Pytorch](https://img.shields.io/badge/Pytorch-%23EE4C2C?style=for-the-badge&logo=Pytorch&labelColor=black) 
 ![TensorFlow](https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=%23FF6F00&labelColor=black) 
@@ -37,9 +39,11 @@ I am interested in applying AI to address real-world challenges, particularly in
 ![Tavily](https://img.shields.io/badge/tavily-black?style=for-the-badge&labelColor=black)
 
 **Apps**
+
 ![StreamLit](https://img.shields.io/badge/streamlit-%23FF4B4B?style=for-the-badge&logo=streamlit&labelColor=black)
 
 **Tools**
+
 ![VS Code](https://img.shields.io/badge/vs%20code-%2354A0ED?style=for-the-badge&labelColor=black) 
 ![Conda](https://img.shields.io/badge/conda-%2344A833?style=for-the-badge&logo=anaconda&labelColor=black) 
 ![Jupyter](https://img.shields.io/badge/jupyter-%23F37626?style=for-the-badge&logo=jupyter&labelColor=black) 
