@@ -50,7 +50,7 @@ I am interested in applying AI to address real-world challenges, particularly in
 ![Colab](https://img.shields.io/badge/Colab-%23F9AB00?style=flat-square&logo=Google%20Colab&labelColor=black) 
 ![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF?style=flat-square&logo=kaggle&labelColor=black) 
 ![Git](https://img.shields.io/badge/git-%23F05032?style=flat-square&logo=git&labelColor=black) 
-![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=flat-square&logo=GitHub&labelColor=black)  
+![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=flat-square&logo=GitHub&labelColor=black) 
 ![uv](https://img.shields.io/badge/uv-%23DE5FE9?style=flat-square&logo=uv&labelColor=black)
 
 ---
